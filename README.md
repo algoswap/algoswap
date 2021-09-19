@@ -28,7 +28,7 @@
 * [Algogems](https://algogems.io/)
 
 ## Explorer
-* [Algoexplorer](https://algoexplorer.io/)
+* [AlgoExplorer](https://algoexplorer.io/)
 * [Algoscan](https://algoscan.app/)
 * [Goalseeker](https://goalseeker.purestake.io/algorand/mainnet)
 
